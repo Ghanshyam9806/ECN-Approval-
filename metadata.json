@@ -1,0 +1,6 @@
+{
+  "name": "Paperless ECN Approval System",
+  "description": "Digitized Engineering Change Notice workflow with Excel data import/export, multi-department approval routing, inventory check tracking, role-based access control, and complete audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
